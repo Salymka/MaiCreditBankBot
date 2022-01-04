@@ -1,0 +1,22 @@
+{
+  "name": "maicreditbankbot",
+  "version": "1.0.0",
+  "description": "funny bot",
+  "main": "botApp.js",
+  "scripts": {
+    "dev": "nodemon botApp.js",
+    "start": "botApp.js"
+  },
+  "author": "Dmytro Prokopchuk",
+  "telegram": "@Salymka",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.4",
+    "mongose": "^0.0.2-security",
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
