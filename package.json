@@ -5,7 +5,7 @@
   "main": "botApp.js",
   "scripts": {
     "dev": "nodemon botApp.js",
-    "start": "botApp.js"
+    "start": "node botApp.js"
   },
   "author": "Dmytro Prokopchuk",
   "telegram": "@Salymka",
